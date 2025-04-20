@@ -1,10 +1,10 @@
-# Scatra Gizlilik Politikası
+# PeltexUP Gizlilik Politikası
 
 Güvenliğiniz bizim için önemlidir. Paylaştığınız kişisel bilgiler, en yüksek güvenlik önlemleriyle ve gizlilikle korunmaktadır.
 
 ## Veri Sorumlusu
 
-Scatra Bot, geçerli veri koruma yasalarına uygun olarak veri sorumlusu olarak hareket etmektedir.
+PeltexUP Bot, geçerli veri koruma yasalarına uygun olarak veri sorumlusu olarak hareket etmektedir.
 
 ## Veri İşleme Amacı
 
@@ -19,7 +19,7 @@ Kişisel verileriniz aşağıdaki amaçlarla toplanmakta ve işlenmektedir:
 
 Kişisel verileriniz şu kişilerle paylaşılabilir:
 
-- Scatra Bot ekibindeki yetkili personel  
+- PeltexUP Bot ekibindeki yetkili personel  
 - Yasal zorunluluklar veya meşru amaçlarla üçüncü şahıslarla (örneğin, sunucu moderasyonu işlemleri)
 
 ## Veri İşlemenin Hukuki Temeli
@@ -41,6 +41,6 @@ Bir kullanıcı olarak şu haklara sahipsiniz:
 - Veri taşınabilirliğini talep etme  
 - Onayın geri çekilmesi
 
-Verilerinizle ilgili herhangi bir endişeniz veya talebiniz varsa, resmi Scatra Bot destek kanalları aracılığıyla bizimle iletişime geçebilirsiniz.
+Verilerinizle ilgili herhangi bir endişeniz veya talebiniz varsa, resmi PeltexUP Bot destek kanalları aracılığıyla bizimle iletişime geçebilirsiniz.
 
 ---
