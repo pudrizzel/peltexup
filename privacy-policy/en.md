@@ -1,10 +1,10 @@
-# Scatra Privacy Policy
+# PeltexUP Privacy Policy
 
 Your security is important to us. Any personal information you share with our team is treated with the utmost care and confidentiality.
 
 ## Data Controller
 
-Scatra Bot acts as the data controller in accordance with applicable data protection laws.
+PeltexUP Bot acts as the data controller in accordance with applicable data protection laws.
 
 ## Purpose of Data Processing
 
@@ -19,7 +19,7 @@ We collect and process personal data for the following purposes:
 
 Your personal data may be shared with:
 
-- Authorized personnel within the Scatra Bot team  
+- Authorized personnel within the PeltexUP Bot team  
 - Third parties only when required by law or for legitimate purposes (e.g., server moderation actions)
 
 ## Legal Grounds for Processing
@@ -41,6 +41,6 @@ As a user, you have the right to:
 - Request data portability  
 - Withdraw consent at any time
 
-If you have any concerns or requests regarding your data, feel free to contact us via the official Scatra Bot support channels.
+If you have any concerns or requests regarding your data, feel free to contact us via the official PeltexUP Bot support channels.
 
 ---
